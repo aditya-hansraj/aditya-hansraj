@@ -1,5 +1,5 @@
 <h1 align="center">もしもし 👋, I'm Aditya Hansraj</h1>
-<h3 align="center">A passionate learner !</h3>
+<h3 align="center">Learning !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trafalgarlaw-3b&label=Profile%20views&color=0e75b6&style=flat" alt="trafalgarlaw-3b" /> </p>
 
