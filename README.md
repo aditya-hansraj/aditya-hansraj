@@ -65,6 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/trafalgarLaw-3b/trafalgarLaw-3b/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/trafalgarLaw-3b/trafalgarLaw-3b/output/snake.svg" alt="Snake animation" /> -->
 
 ###
