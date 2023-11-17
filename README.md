@@ -1,31 +1,70 @@
-<h1 align="center">もしもし 👋, I'm Aditya Hansraj</h1>
-<h3 align="center">Learning... !</h3>
+<h2 align="left">Hi 👋! My name is Aditya Hansraj.<br>I am currently pursuing my BTECH degree with a strong foundation in Java.<br>As a self-learner, I am expanding my skills in web development, focusing on HTML, CSS, JavaScript, PHP, and MySQL. <br>While working on small JavaScript projects, I aspire to become a full-stack developer. <br>My GitHub is a showcase of my dedication to continuous learning and passion for coding.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trafalgarlaw-3b&label=Profile%20views&color=0e75b6&style=flat" alt="trafalgarlaw-3b" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trafalgarlaw-3b" alt="trafalgarlaw-3b" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trafalgarLaw-3b&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trafalgarLaw-3b&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="left"> <a href="https://twitter.com/_adityaa_04" target="blank"><img src="https://img.shields.io/twitter/follow/_adityaa_04?logo=twitter&style=for-the-badge" alt="_adityaa_04" /></a> </p>
+###
 
-- 🌱 I’m currently learning **JAVA, HTML, CSS, JAVASCRIPT, Linux**
+<img align="right" height="150" src="https://media.giphy.com/media/kPOo1dzddRNJwB3B6V/giphy.gif"  />
 
-- 📫 How to reach me **04adityahansraj@gmail.com**
+###
 
-- ⚡ Fun fact **Java is an Object Oriented Programming Language !**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_adityaa_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_adityaa_04" height="30" width="40" /></a>
-<a href="https://instagram.com/_adityaa__04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adityaa__04" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/trafalgarlaw_3b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trafalgarlaw_3b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/trafalgar3b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trafalgar3b" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<div align="left">
+  <a href="https://www.instagram.com/_adityaa__04/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="88" height="50" alt="instagram logo"  />
+  </a>
+  <a href="04adityahansraj@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="88" height="50" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-hansraj-561749299/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="88" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/_adityaa_04" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="88" height="50" alt="twitter logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/trafalgarlaw_3b" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="88" height="50" alt="hackerrank logo"  />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trafalgarlaw-3b&show_icons=true&locale=en&layout=compact" alt="trafalgarlaw-3b" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trafalgarlaw-3b&show_icons=true&locale=en" alt="trafalgarlaw-3b" /></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/trafalgarLaw-3b/count.svg?"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trafalgarlaw-3b&" alt="trafalgarlaw-3b" /></p>
+###
+
+<img src="https://raw.githubusercontent.com/trafalgarLaw-3b/trafalgarLaw-3b/output/snake.svg" alt="Snake animation" />
+
+###
