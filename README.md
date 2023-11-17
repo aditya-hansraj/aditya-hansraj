@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aditya Hansraj.<br>I am currently pursuing my BTECH degree with a strong foundation in Java.<br>As a self-learner, I am expanding my skills in web development, focusing on HTML, CSS, JavaScript, PHP, and MySQL. <br>While working on small JavaScript projects, I aspire to become a full-stack developer. <br>My GitHub is a showcase of my dedication to continuous learning and passion for coding.</h2>
+<h2 align="left">Hi 👋! I am Aditya Hansraj.</h2><br>I am currently pursuing my BTECH degree with a strong foundation in Java.<br>As a self-learner, I am expanding my skills in web development, focusing on HTML, CSS, JavaScript, PHP, and MySQL. <br>While working on small JavaScript projects, I aspire to become a full-stack developer. <br>My GitHub is a showcase of my dedication to continuous learning and passion for coding.
 
 ###
 
