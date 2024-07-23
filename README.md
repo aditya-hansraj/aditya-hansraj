@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I am currently pursuing my BTECH degree with a strong foundation in Java.<br>As a self-learner, I am expanding my skills in web development, focusing on HTML, CSS, JavaScript, PHP, and MySQL.<br>While working on small JavaScript projects, I aspire to become a full-stack developer.<br>My GitHub is a showcase of my dedication to continuous learning and passion for coding.</p>
+<p align="left">I am currently pursuing my BTECH degree with a strong foundation in Java and JavaScript. As a self-learner, I am expanding my skills in web development, focusing on the complete MERN stack. My GitHub is a showcase of my dedication to continuous learning and passion for codin</p>
 
 ###
 
