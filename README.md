@@ -1,5 +1,5 @@
 <div align="center">
-  ![Wolfinj Sup Wolf Sup](https://media.tenor.com/images/2b9b3e2f4d5e5b8ecb8d8e0a8b5e5cec/tenor.gif)
+  <img src="https://media.tenor.com/images/2b9b3e2f4d5e5b8ecb8d8e0a8b5e5cec/tenor.gif" alt="Wolfinj Sup Wolf Sup">
 </div>
 
 ###
