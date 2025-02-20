@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="199" src="https://media.giphy.com/media/kPOo1dzddRNJwB3B6V/giphy.gif"  />
+  <img height="199" src="[https://media.giphy.com/media/kPOo1dzddRNJwB3B6V/giphy.gif](https://tenor.com/bsr01.gif)"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aditya-hansraj-561749299/" target="_blank">
+  <a href="https://www.linkedin.com/in/hansrajaditya/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/_adityaa_04" target="_blank">
