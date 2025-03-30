@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I am currently pursuing my BTECH degree with a strong foundation in Java and JavaScript. As a self-learner, I am expanding my skills in web development, focusing on the complete MERN stack. My GitHub is a showcase of my dedication to continuous learning and passion for codin</p>
+<p align="left">I am currently pursuing my BTECH degree with a strong foundation in Java and JavaScript. As a self-learner, I am expanding my skills in web development, focusing on the complete MERN stack. My GitHub is a showcase of my dedication to continuous learning and passion for coding</p>
 
 ###
 
